@@ -12,7 +12,7 @@
 ACM国际大学生程序设计竞赛（英文全称：ACM International Collegiate Programming Contest（简称ACM-ICPC或ICPC））是由国际计算机协会（ACM）主办的
 
 * CCPC
-中国大学生程序设计竞赛
+中国大学生程序设计竞赛（China Collegiate Programming Contest， CCPC）是由中国大学生程序设计竞赛协会主办的面向世界大学生的国际性年度赛事。
 
 
 
