@@ -19,7 +19,7 @@ ACM国际大学生程序设计竞赛（英文全称：ACM International Collegia
 
 ### Algorithms
 
-
+制定计划，每天练习一个算法题
 
 
 
